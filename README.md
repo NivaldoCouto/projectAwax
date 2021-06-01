@@ -1,8 +1,14 @@
-# Project Awax
-## Development of a responsive website for the B7Web course.
-# * Desktop project layout.
+<h1 align="center">Project Awax</h1>
+
+<h2 align="center">Development of a responsive website for the B7Web course.</h2> 
+
+<h3>* Desktop project layout.</h3>
+
 ![layout desktop](https://github.com/NivaldoCouto/projectAwax/blob/main/layout/LAYOUT_DESKTOP.jpg)
-# * Desktop project layout-mobile.
+</br></br></br>
+#
+<h3>* Mobile project layout.</h3>
+
 ![layout mobile](https://github.com/NivaldoCouto/projectAwax/blob/main/layout/LAYOUT_MOBILE.jpg)
 ##
 
