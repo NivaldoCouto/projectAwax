@@ -496,7 +496,7 @@ header {
     font-size: 14px;
     color: #000;
     margin-top: 6px;
-    font: bold;
+    font-weight: 600;
 }
 
 .section-testimonials--quoteimg {
