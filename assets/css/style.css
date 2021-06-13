@@ -10,6 +10,9 @@ body {
     overflow-x: hidden;
 }
 
+
+/* header area */
+
 header {
     height: 100px;
     background-color: #000;
@@ -28,6 +31,9 @@ header {
 .logo {
     width: 100px;
 }
+
+
+/* menu area */
 
 .menu {
     flex: 1;
@@ -75,6 +81,9 @@ header {
     margin-top: 30px;
     border-radius: 20px;
 }
+
+
+/* banner area */
 
 .banner {
     height: calc(100vh - 100px);
@@ -145,6 +154,9 @@ header {
     background-color: #B28756;
 }
 
+
+/* section class defaut light and dark area*/
+
 .default {
     width: 100vw;
     padding-top: 50px;
@@ -194,7 +206,10 @@ header {
 }
 
 
-/* CSS de area específica */
+/* CSS de area específica*/
+
+
+/* section-aboutus area */
 
 .section-aboutus {
     display: flex;
@@ -219,6 +234,9 @@ header {
     width: 100%;
     box-shadow: 0px 5px 10px;
 }
+
+
+/* section-service */
 
 .section-services {
     display: flex;
@@ -246,6 +264,9 @@ header {
     font-size: 12px;
     color: #999;
 }
+
+
+/* section-projects */
 
 .section-projects {
     display: flex;
@@ -329,6 +350,9 @@ header {
 .section-projects--photoarea:hover .section-projects--photoinfo {
     display: flex;
 }
+
+
+/* section-team */
 
 .bg-team {
     background-image: url('../images/bg1.jpg');
@@ -433,6 +457,9 @@ header {
     background-color: #B28756;
 }
 
+
+/* section-testemonials */
+
 .section-testemonials {
     overflow: hidden;
 }
@@ -513,6 +540,9 @@ header {
     color: #999;
 }
 
+
+/* section-trademarck */
+
 .default-trademarck {
     border-top: 2px solid #ccc;
     border-bottom: 2px solid #ccc;
@@ -536,6 +566,9 @@ header {
     width: 70px;
     height: auto;
 }
+
+
+/* section-price */
 
 .section-price {
     display: flex;
@@ -574,6 +607,9 @@ header {
 .section-price--item-point {
     font-size: 12px;
 }
+
+
+/* section-premium */
 
 .premium {
     background-color: #FFF !important;
