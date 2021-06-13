@@ -57,13 +57,13 @@ header {
 
 .menu a:hover,
 .menu .active a {
-    border-bottom: 5px solid #cfa224ea;
+    border-bottom: 5px solid #B28756;
     color: #ccc;
 }
 
 .button {
     display: inline-block;
-    background-color: #cfa224ea;
+    background-color: #B28756;
     color: #FFF;
     text-transform: uppercase;
     font-size: 10px;
@@ -111,7 +111,7 @@ header {
 }
 
 .banner h1 span {
-    color: #cfa224ea;
+    color: #B28756;
 }
 
 .banner h2 {
@@ -132,7 +132,7 @@ header {
 .banner .pointer {
     width: 15px;
     height: 15px;
-    border: 2px solid #cfa224ea;
+    border: 2px solid #B28756;
     border-radius: 8px;
     margin-left: 5px;
     margin-right: 5px;
@@ -140,7 +140,7 @@ header {
 }
 
 .banner .pointer.active {
-    background-color: #cfa224ea;
+    background-color: #B28756;
 }
 
 .default {
@@ -276,7 +276,7 @@ header {
 }
 
 .section-projects--filters li:hover {
-    border-bottom: 3px solid #cfa224ea;
+    border-bottom: 3px solid #B28756;
 }
 
 .section-projects--filters li:first-child {
@@ -382,7 +382,7 @@ header {
 .section-team-area .pointer {
     width: 15px;
     height: 15px;
-    border: 2px solid #cfa224ea;
+    border: 2px solid #B28756;
     border-radius: 8px;
     margin-left: 5px;
     margin-right: 5px;
@@ -390,7 +390,7 @@ header {
 }
 
 .section-team-area .pointer.active {
-    background-color: #cfa224ea;
+    background-color: #B28756;
 }
 
 .section-team--avatar {
@@ -428,7 +428,7 @@ header {
 }
 
 .section-team--social a:hover {
-    background-color: #cfa224ea;
+    background-color: #B28756;
 }
 
 .section-testemonials {
@@ -469,7 +469,7 @@ header {
 .section-body .pointer {
     width: 15px;
     height: 15px;
-    border: 2px solid #cfa224ea;
+    border: 2px solid #B28756;
     border-radius: 8px;
     margin-left: 5px;
     margin-right: 5px;
@@ -477,7 +477,7 @@ header {
 }
 
 .section-body .pointer.active {
-    background-color: #cfa224ea;
+    background-color: #B28756;
 }
 
 .section-testimonials--avatar {
