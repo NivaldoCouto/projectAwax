@@ -574,6 +574,10 @@ header {
     display: flex;
 }
 
+.section-price i {
+    color: #999;
+}
+
 .section-price--item {
     flex: 1;
     background-color: #FFF;
