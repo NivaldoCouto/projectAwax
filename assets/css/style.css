@@ -814,3 +814,8 @@ header {
 .section-share--icon.pinterest {
     background-color: #b71c29;
 }
+
+.section-contact .button-premium {
+    display: flex;
+    justify-content: center;
+}
