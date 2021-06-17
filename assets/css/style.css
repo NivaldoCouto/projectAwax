@@ -848,3 +848,12 @@ header {
 .section-contact--split input:first-child {
     margin-right: 20px;
 }
+
+
+/* section-map */
+
+.section-map {
+    background-image: url('../images/mapa.jpg');
+    background-size: cover;
+    background-position: center;
+}
