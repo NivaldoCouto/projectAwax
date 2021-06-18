@@ -282,7 +282,8 @@
                     cursor: pointer;
                 }
                 
-                .section-projects--filters li:hover {
+                .section-projects--filters li:hover,
+                .section-projects--filters li.active {
                     border-bottom: 3px solid #B28756;
                 }
                 
