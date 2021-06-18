@@ -824,6 +824,7 @@
                     background-position: center;
                     padding-top: 30px;
                     padding-bottom: 30px;
+                    padding-left: 80px;
                 }
                 
                 .section-map--area {
@@ -833,7 +834,7 @@
                 }
                 
                 .section-map--info {
-                    width: 50%;
+                    width: 40%;
                     padding: 30px;
                     background-color: #FFF;
                     color: #000;
@@ -867,12 +868,15 @@
                 .footer--area {
                     background-color: #000;
                     display: flex;
+                    padding-left: 100px;
+                    padding-right: 100px;
                 }
                 
                 .footer--item {
+                    flex: 1;
                     width: 100%;
                     height: auto;
-                    margin: 20px;
+                    margin: 40px;
                 }
                 
                 .footer-social {
@@ -897,13 +901,36 @@
                 }
                 
                 .footer--item.area2 {
-                    font-size: 15px;
-                    line-height: 20px;
+                    font-size: 13px;
+                    line-height: 15px;
                     color: #999;
-                    padding-left: 60px;
-                    text-align: right;
+                    padding-left: 100px;
+                    margin-left: auto;
                 }
                 
                 .footer--item.area1 {
-                    background-color: #b71c29;
+                    display: flex;
+                    flex-flow: column wrap;
+                    justify-content: space-between;
+                    margin-top: 40px;
+                }
+                
+                .footer-socials--trademark {
+                    color: #FFF;
+                    display: flex;
+                }
+                
+                .footer-social a {
+                    display: inline-flex;
+                    justify-content: center;
+                    align-items: center;
+                    width: 25px;
+                    height: 25px;
+                    background-color: #555;
+                    border-radius: 13px;
+                    margin-right: 10px;
+                }
+                
+                .footer-social a:hover {
+                    background-color: #B28756;
                 }
